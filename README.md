@@ -2,17 +2,17 @@
 
 ## Sobre el autor
 
-**Nombre y Apellidos** | **Correo** | **Grupo**
+**Nombre y Apellidos** | **Correo** | **GitHub**
 --|--|--
-Ariel Plasencia Díaz | a.plasencia@estudiantes.matcom.uh.cu | C412
+Ariel Plasencia Díaz | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL)
 
 ## Sobre el chat
 
-Es un ejemplo de chat simple que se basa en un modelo tipo Gossip - Data Dissemination, el cual, es un procedimiento o proceso de comunicación entre pares de nodos que se basa en la forma en que se propagan las epidemias. Algunos sistemas distribuidos utilizan dicho protocolo para garantizar que los datos se difundan a todos los miembros de un grupo.
+Es un ejemplo de chat simple basado en un modelo tipo Gossip - Data Dissemination, el cual, es un procedimiento o proceso de comunicación entre pares de nodos que se basa en la forma en que se propagan las epidemias. Algunos sistemas distribuidos utilizan dicho protocolo para garantizar que los datos se difundan a todos los miembros de un grupo.
 
 ## Sobre la implementación
 
-La implementación se encuentra totalmente en ***python 3***. Es recomendable tener conocimientos avanzados de este lenguaje de programación para una mayor y mejor entendimiento de las implementaciones propuestas.
+La implementación se encuentra totalmente en [python 3](https://es.wikipedia.org/wiki/Python). Es recomendable tener conocimientos avanzados de este lenguaje de programación para una mayor y mejor entendimiento de las implementaciones propuestas.
 
 ## Sobre la ejecución
 
