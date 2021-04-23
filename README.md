@@ -27,6 +27,13 @@ python node_8003.py
 python node_8004.py
 ```
 
+Además, se pueden añadir nodos dinámicamente, haciendo:
+
+```bash
+cd src/
+python add_node.py
+```
+
 ## Sobre la red Gossip - Data Dissemination
 
 Para un mejor entendimiento de la relación de los nodos conectados propuesta por esta implementación veremos la siguiente figura:
