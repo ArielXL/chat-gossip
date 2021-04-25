@@ -31,7 +31,7 @@ Además, se pueden añadir nodos dinámicamente, haciendo:
 
 ```bash
 cd src/
-python add_node.py
+python add_node.py -o <ip> -p <port> -n <node_port> ... -n <node_port>
 ```
 
 ## Sobre la red Gossip - Data Dissemination
